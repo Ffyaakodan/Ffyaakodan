@@ -1,0 +1,26 @@
+{
+  "name": "Tom Hudson",
+  "age": 20,
+  "address": {
+    "street": "Rewapu Boulevard",
+    "city": "Liwaihu",
+    "state": "DE",
+    "zip": "20368"
+  },
+  "contact": {
+    "phone": "(967) 664-7386",
+    "servicePhone": "800175824"
+  },
+  "birthday": "1959-06-12T10:25:49.757Z",
+  "ip": "121.113.86.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju fitim izomu kohtazjaw buhapo awowisri lucwu fokzene ew erubuvoh ohoko kobev je lo lub. Kavvo vizwocno mepev balman ceko zizcidlik ufupisdo jeumvo bob mubovil em wobcalva pis di kuiffi bomaotu. Umisini suncun ebapu osnoclen isa uleli somemubu famtolnoh tijjazta sa dadip nuvawomu tafihu.",
+    "bio": "Efajni bisu ve walmu egmik huv ba ulu mawcufat marlanil pohko bet mukah usma. Foh veazsi fi tu zickit ror ul tuubi utwetud bitsomus na tekcaniw takteb cawolig. Cikepubif liav mefefova ej co be binru la pe pevuvako uha dafep siv gewohke ba bopmuad kaf. Fuvcot mov sohoh lazaza ew men epga ricrogjes vupabuh lob fuplecpe cashel arove ad."
+  },
+  "apiKey": "c3a0cadf64f793b0feee054eb4aaf75510b6692653db8cb1d38fdb7baea96f9f",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
