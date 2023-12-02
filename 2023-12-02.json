@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Figueroa",
+  "age": 43,
+  "address": {
+    "street": "Hehup Key",
+    "city": "Totakfi",
+    "state": "MD",
+    "zip": "52368"
+  },
+  "contact": {
+    "phone": "(341) 955-2597",
+    "servicePhone": "800365158"
+  },
+  "birthday": "1993-01-03T11:58:09.796Z",
+  "ip": "245.50.91.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Oz cadivzi osaezu zo goruhof wahzef ijubi faj waopo bokepi vehesutip eloopdam mabuz kojkinen apume. Pid fep rolmif odpiz mu caki loonise igipini tel vu mu cil lunteisi zossazci. Lazbeg cedugeho dij uk uwa colkofiw roclase meukeziw esu dakuju mof baczunum torore.",
+    "bio": "Nuca wejfapti cipiju mep jamza eco pumjaibo nen revhozin cih julguwe tacwe. Peteb cues zofagma vojhuav ho cofagzi up fotefbek um luppejem akab povujze lahvi teohvac cij surutos tomagi abano. Ukegri cigfod ukharta jemubwif bon hi he kidamjob mivci relot jo ikajow nukco suf puf."
+  },
+  "apiKey": "f0ff97fdccf16a084d52819c8774b2193ad22be4d8642ab7f8363f638fbe39a7",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
