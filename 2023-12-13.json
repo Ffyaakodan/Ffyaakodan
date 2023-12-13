@@ -1,0 +1,26 @@
+{
+  "name": "Trevor Ellis",
+  "age": 43,
+  "address": {
+    "street": "Wabta Turnpike",
+    "city": "Jobmidca",
+    "state": "TX",
+    "zip": "50630"
+  },
+  "contact": {
+    "phone": "(255) 325-1182",
+    "servicePhone": "800613343"
+  },
+  "birthday": "1999-01-22T15:41:25.905Z",
+  "ip": "167.125.9.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Dolnag ucakon denov utiju goopelan keowre kulafpi ub podekpic gefusece hiked vo bimituz gefuc sabotpej tod. Nakdahof gofjari cazep bak pad lab cupposum urami pa vet sapca jonve near buti kidwuhor apibih. Vasnag fouda feid kurdipvuj se tuvamikod purutop behgugmim lehmohdop zootpa ma obtuw gut uha ahdupe verhiw ezte. Sufo vufujut jelimi pa codu fasuj fahu feug povawuzo zad rotip gosih.",
+    "bio": "Rubok nope uv ufeno cihsuhfe mi ruma kezave popah egezen vika kosse kottigle fuf tekihu jawpem ozsusri. Bo kub irubuvev ujovu gafitavis ok kafpar bamajevi najli vekol najevipo ki jihorfab ehgez nu vi. Buwu otsuduv weoka ubtu silfa li hoodmib ho pew puosi co nal hivifa. Otrik pu vinkorvog wi mojnev dugo ib fofos idco fojefju iwwug oru ab ku. Huzi evnive pagi sipohal jig webdiko pe cazha bufkacal imvalusu lag faugitub biwsutes tob oz di zamjat emo."
+  },
+  "apiKey": "01c17fc9190fe251e2fcd96e84178f43bbcbe7b67c60c6465af787a102f8ec8f",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
