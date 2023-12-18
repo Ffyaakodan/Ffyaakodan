@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Stone",
+  "age": 37,
+  "address": {
+    "street": "Rinva Park",
+    "city": "Kuvakjo",
+    "state": "LA",
+    "zip": "27629"
+  },
+  "contact": {
+    "phone": "(569) 491-7517",
+    "servicePhone": "800976839"
+  },
+  "birthday": "1968-12-11T04:40:23.545Z",
+  "ip": "171.126.205.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Notkol da kus zaszeh kok dev eb owaci licgi ugevawaj asiubo akefalab zotma obemep zaerifeh couru. Wefeb bu vecumugu we mol hefo pulec mil nuh ramejjo kegtugfu olsocu foh tet mopi jo mo. Vahvop tastufuc jevilom terolo pobmenmik mej ew vukurlo ted es hihzerap wa mu ri gumrefo uzi wahhe.",
+    "bio": "Nevcisa woetfeg foabu susgosbih buvrow dogo ob pog anovagi ofe tograp ihe riw fov. Bufwat lu cicibes bigaz caacref larsu bemraam izanub oliwurbi la otgik ufzem satosriw necto lood reblafe. Ribepuj hav idne gihhuje givdug harmev ugi hopvuz tewaz fe facmum azonuvtuk rikgag imcit lifriwbi he. Jafolebu do civciz zese zun linpajda pinudahet biwudgu isiwucvi heho zeig efujahba ki agmeka pa."
+  },
+  "apiKey": "a67a40952f4e2c83697be6da0db23209d382faf57795a1b7ddb62dfb147fe488",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
