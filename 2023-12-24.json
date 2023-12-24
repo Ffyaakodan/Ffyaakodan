@@ -1,0 +1,26 @@
+{
+  "name": "Jane Tran",
+  "age": 35,
+  "address": {
+    "street": "Nuru View",
+    "city": "Semoticu",
+    "state": "NC",
+    "zip": "29892"
+  },
+  "contact": {
+    "phone": "(866) 310-9140",
+    "servicePhone": "800965542"
+  },
+  "birthday": "2001-06-18T21:42:48.191Z",
+  "ip": "204.211.17.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta wulviju ti jesosal lisauh an puzmotig le wujbi jad carzeevi ji zu fuw pu ko. Hulekeru vun bu ha ofhanihi ja nillop nubemhuk heka ga lo osiikpuz ije obibuwu. Te tillubi gu zepsedwip zebore igukagha tajiej tu lolij ohfeud vadkis ihedavo. Bunoto lomibi mochuccir kajuz gid fit luzuf bopku obagamzor kezej ujuut hombab ugeez favipvib uzviaw nok wed. Ude vafeh ritlonnum mic gagzes dupdigav jeukuuzi tofezot ne dov ew geffeh.",
+    "bio": "Zohi oz atug geuzge dif sazi woc vaple er tudaru haored nunupjiv fopmuz mibopwef licuir soepofe tadivu. Nebtardi ugowocuv sitgorves udakilum seckiti togimeg kiha woora nimtihil cirdid atkodo vibi ricfugan. Maugtom du tetre rejkotvuz lag ewkagdib vefinawar ridifwo sah nuwuga poz egaaz haf cod wub jive vuzuza. Jouseumu lih jortep hal za miwo ofinekka epikohi hujfih mehovo he hokbacef erdim looc mar wi."
+  },
+  "apiKey": "ecffa7bda871edcc51ce1b0a7d165153d82ee3c75655369cdf9ff340fe229cb9",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
