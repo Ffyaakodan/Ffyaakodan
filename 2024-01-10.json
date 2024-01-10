@@ -1,0 +1,26 @@
+{
+  "name": "Logan Welch",
+  "age": 33,
+  "address": {
+    "street": "Fodof Drive",
+    "city": "Rihderga",
+    "state": "DC",
+    "zip": "81702"
+  },
+  "contact": {
+    "phone": "(586) 779-5498",
+    "servicePhone": "800633829"
+  },
+  "birthday": "1965-10-16T15:25:16.061Z",
+  "ip": "251.141.148.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Pulfeh owuhpa jemzanek lumasjig tebvoj kot zotsirof vobkirse tolle uha pigbi dinek peweh elta lizeca keltuwed. Lacjamwow maukiaf tez urukoj sowca gizorwut bi ceecozif ge gazacko absunbo najence. Sob wafmapmuf reapege kafnu kior lozma vic ilinup ruc run raazid zu lutiow.",
+    "bio": "Puwuec inrer wamheg ba ezawuvwaw laem bi la orutiaz uvaputume kurzi hum je hi ozpazki lezrodci lus gim. Hokbu zemzaibu leznel mitok ba ratuw je fakenelu havbo evrehot suzgivlo ko puvolgon zese. Olsi wuhsatti leg enig wijzala be ecoki ac hezru enicezmob tazon kupa ubamato hiczawo ub wo naiwzef runsa."
+  },
+  "apiKey": "e46bffb8c9ff0bf495e28b9bf26d1bf18589f3b5d7050c21b8eb4232ac36e081",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
