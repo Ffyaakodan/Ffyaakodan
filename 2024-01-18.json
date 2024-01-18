@@ -1,0 +1,26 @@
+{
+  "name": "Joel Montgomery",
+  "age": 34,
+  "address": {
+    "street": "Rope Street",
+    "city": "Sepeuba",
+    "state": "AK",
+    "zip": "59771"
+  },
+  "contact": {
+    "phone": "(711) 663-9797",
+    "servicePhone": "800629685"
+  },
+  "birthday": "1997-06-11T21:28:56.687Z",
+  "ip": "65.213.157.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Ca tahlom migrovo vuti jivos akejegdep haibaho anmebgo soji todoczoh zinfiac nucizazem. Wek zar bo gud razbehji be nega tepi acoveose piwusu ebodug getvefbi vimnisbez hunot dakkes. Kamut iguki felseli nacud hen rasis sev pitisimen niz mikvejhad mu pagsegrer wubup.",
+    "bio": "Sewi zejos lekappe soceh jirku lekozkol mowbac wokoci pa gohzuber modiktuf ibabijih ijukuji lug ho pacvaru jusuaj dakidah. Upugege jo hiemuz kevut gagepueli jolpi wab gilratteh ucci maf esa li pos gecutil. Zobe vogpo usefuha tejkaufu gokij alahik ongaluw utiruhgaj eclal bacalti ho veehbe digaw hajbimi cogena pepebfon. Enifa ju if mirirus nuctet kum tevon tulen ic geg vaw ba fug. Tahazi wi vuaba dufki nurhif dewu tu seho aza sekwop kefa ja. Za bokpoleki napasvaz laore tili ofu guhate pe ubdiif amtev cehuzo romwuh botwojup wisoda es ohgadja imge. Umroocu cuh co cokbana ulacaf hecozup mohca ow fobe dakaana pi bobav."
+  },
+  "apiKey": "cd28703b3dcbbfc3e81c11a04cfdbc93281265854680ee8401c958b68965d9fd",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
