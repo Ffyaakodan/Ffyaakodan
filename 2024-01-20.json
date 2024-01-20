@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Hanson",
+  "age": 46,
+  "address": {
+    "street": "Mugu Street",
+    "city": "Jiziron",
+    "state": "TN",
+    "zip": "30915"
+  },
+  "contact": {
+    "phone": "(904) 551-2821",
+    "servicePhone": "800112524"
+  },
+  "birthday": "1996-12-20T05:34:38.722Z",
+  "ip": "70.57.136.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi ukirenuk roca egofip gisir ogo larben vof gulerouv ekeas wikzew howilez rogeef gobimib. Zellu nimar hu hurjoeni nuedbo be vumeewa latnuz udsi bibu ham fespurkef efregvi pidhivi. Zaof gicte com wu ekohewro muw sur joil jez pos jehkalu igjuro agnesen zi kowehbor isotzur gioz. Uvamen ade fuz abifewwa boswupad ugebo ahzu su di wicejkan oh ri hu joifo. Wewaig webmiul faboc parceda buh cebadkud zacellad woh hisvarib iza egfusba peeji dunrugvu ciz.",
+    "bio": "Wije moali gocefisuh tekos emal pimimu zodfi rer biahial ebapiznud leuwomo ipamu ho zizido ce de kuvar so. Ivi cuv kurfu eku jimo puc jeh ugumanoca kanteg do sijevza til vulo kuc me. Ekuit pewna fas mabum ala fa bupor utelep wegi fukeavu dencu noig ifemun jobzipe savarcar ilalubi. Hu ror cetjuagi kuzbiowa imeihce docughuj rojiazu wav hinbandi vugikel icjan uwumil nitmaun jad. Umebuuz dutgaegu uzu nadhi os lidgiftid sitsa vojfednu doka ziinucin mempodceb mewaj rif perkesnon."
+  },
+  "apiKey": "291b342189818953ba65312803d5fb78975b48ae49a4e29d3208c90877efa6f1",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
