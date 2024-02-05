@@ -1,0 +1,26 @@
+{
+  "name": "Julian Vasquez",
+  "age": 25,
+  "address": {
+    "street": "Safba Boulevard",
+    "city": "Pugitela",
+    "state": "PA",
+    "zip": "97445"
+  },
+  "contact": {
+    "phone": "(347) 484-2231",
+    "servicePhone": "800283256"
+  },
+  "birthday": "1966-03-12T14:17:56.253Z",
+  "ip": "130.198.59.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Wablo ah ikosica wirada ci je imjupwu ralpu wunev danivi oju cilvujbi cicime kiwilo boahnut. Teb eba ihecov olewo nagowwub ce so belu novi so goekicil kofvo deku ov lug co zarsu ekjokum. Si ekdi aromo epegfu wonenajo zu kepi aheuvje ges culalu gajsos ezi cuwinkug razlum jujefe newgig la tidebcu. Suju gucasjep pam viima zofwoc ma va fa so no lurmuv kopwut pajne dijjesi kisihlug uttefsag. Mirsu imwu ozhamsar jiba jab omasikvon jakcew tub gefbin zouwja ha ve vazla.",
+    "bio": "Hunsusbek du nesar pon nob bokkajkig lovcamaw oh fim va lel iczapuz mi. Wepbigzi nolrucbes rufa zavli bi wo nahba pi saju japfaphip nuego omabouk zeaste dibuk riopu ivimit pi. Gubak metfekpi fam azi taz docun lampah rat lowlaf zosak ojheluw ucogo."
+  },
+  "apiKey": "c0d75f7111dab52a10211e42a9ac0558d5b82c4f2d88ea074f52a66e4f8303b9",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
