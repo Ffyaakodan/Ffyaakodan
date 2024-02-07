@@ -1,0 +1,26 @@
+{
+  "name": "Sean Hammond",
+  "age": 45,
+  "address": {
+    "street": "Itmed Pass",
+    "city": "Tufake",
+    "state": "ND",
+    "zip": "07784"
+  },
+  "contact": {
+    "phone": "(389) 897-1646",
+    "servicePhone": "800411635"
+  },
+  "birthday": "1968-01-03T03:57:04.247Z",
+  "ip": "235.89.36.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijukez avo nela soncadva luz pu iru baecu wurkus ku tujpu mihbojat. Erifefu lonafo gacu siglis amoni ivnotoz bifucic wu jonop ra atopisin ra vetavone si tan uhbus. Sosrehol ic ni ucuahu dil hipudo tev dalmarmol naevi susa vopjukus vatjutuz cewi socnege kaw.",
+    "bio": "Ma sa go vuherti ehzu ama zupkam mir epouku ju zidocuh gaasoiv mijpus fe. Vakco vedpipjil hezupmev wi go woh ru ejozicve du naake ravwujesu ovise ehuleci rotonlaw tesud cobu povisato covedfet. Igusor fewrafla hedosti fik fokne hudpol larugi wif kimu wu lo divosa mawlez vehfo bugbaet bisu."
+  },
+  "apiKey": "955e74991c1b823bf0bf9a8be6975e5e262a8b13eafb5250714ce09f2df6ad55",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
