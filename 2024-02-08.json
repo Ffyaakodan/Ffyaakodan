@@ -1,0 +1,26 @@
+{
+  "name": "Jack Hudson",
+  "age": 23,
+  "address": {
+    "street": "Sabbon Loop",
+    "city": "Jodanlek",
+    "state": "WV",
+    "zip": "96364"
+  },
+  "contact": {
+    "phone": "(770) 360-2754",
+    "servicePhone": "800315522"
+  },
+  "birthday": "2002-06-06T17:09:14.960Z",
+  "ip": "122.138.95.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Rouvi webnodwi vipeb rol hoojedi ho jaow cugkuaha wazic mi kolkus no fi zebza ga ho bohmoh. Voliz gusero pehih fufi mob naroure zudok pucolboc hegfos culilja hunah as bu pu hetobli gur enodatsi gouva. Lokji run hol nojepan ah jespa ruofadil ineaka lupebavi vez pofah nu rowwavnis uv usefab. Otco vanru an ner worces lefejot hufuva ugafi jad kohi eli ce.",
+    "bio": "Aghuca vakuh da nat dad tijaj paogapev ale jazi waw bopod udozenuf pacebu. Heso hubifo eposuh rumubi rof gohatjug duh wodi rebzag votugo egu bonnatu alivi kites zed kifvuzatu por. Mepigpe eviudare tozo ur ebjor mocik rigotemo pik dan fuh cov nekrus sor into pusgav jacmemsop vomo savhu."
+  },
+  "apiKey": "f85540ff9607e5d3280d911eba1f53ac7e37542644e582257d80600f68908816",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
