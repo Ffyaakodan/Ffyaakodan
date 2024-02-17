@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Flores",
+  "age": 46,
+  "address": {
+    "street": "Zolo River",
+    "city": "Laleralu",
+    "state": "WY",
+    "zip": "88092"
+  },
+  "contact": {
+    "phone": "(645) 862-4892",
+    "servicePhone": "800597913"
+  },
+  "birthday": "2001-07-25T02:10:42.420Z",
+  "ip": "199.184.169.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Gibis zevcohet ripbowbek bok ufru wo jerhih ciguwuep zi surocifu mavos ha. Zilse cejko jafiozi guvbos nig sol jufosow bum gonula laffi jewoh edwes ko. Gunu maspuod regazavi jujnovu kunteac fenubli ku mapti feomomof lidron hignerwu uriguugo. Fik towbug iset la ibir buvtavsa nadurakim ze fotvew lid menuc kehbuduh im vureva.",
+    "bio": "Wase liva suwobni gohedsu nedkof cipjo gegaebi zebwehod ki eroowma vi vilipfi. Be hi jinsuvci radewu kiwcag ri gaij cecpa ep adaape bubuzvav dilmoopu figeja. Kowko lami mavpip inauka pasunna lohat soma ze ziznasmuz veceb vin dujuvut falbagvo bet za polab ciamufo."
+  },
+  "apiKey": "ac9db431bdcb82516dd5055c213e23e73ac59a15ea09e3463b58ff6afed1bf4f",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
