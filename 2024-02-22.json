@@ -1,0 +1,26 @@
+{
+  "name": "Tom Mathis",
+  "age": 39,
+  "address": {
+    "street": "Tuner Heights",
+    "city": "Kowpodbi",
+    "state": "NC",
+    "zip": "54810"
+  },
+  "contact": {
+    "phone": "(568) 496-6875",
+    "servicePhone": "800177981"
+  },
+  "birthday": "1997-05-13T22:03:24.759Z",
+  "ip": "145.206.143.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Karuz few vo deh reot hih guv ufhouw si vep utpoh vamja dazpicvak. Wufub hogopiji moigaive tijirce if mi gej leb icicu faudupov zidewa wecug das. Hemsokpu ruzwugfad rucgafa hej mempad pukpi igwi dopatle ume sadbidid esne doobemu ascujdo di hacimwid zi on.",
+    "bio": "Acsow zuwgeput zun mielu wuz pecesah jasnevus fum vapseuw ogziw mi saninopa sevwiaz. Lew wito ojohifrig baada na zu dug aghiez kissoc hiliro netjebota doger piznoici ukabarmoc wogucmac supiit. Ede hamcob ecci ite suano bi gat el cil zemif selit jozozone ku owce ikiwi mahril hi meomekob."
+  },
+  "apiKey": "461da048ee94ae7b10b819bc4c55b13a8230260005528299966d4ec956d22e1d",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}
