@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Roberts",
+  "age": 60,
+  "address": {
+    "street": "Mojinu Glen",
+    "city": "Umpitem",
+    "state": "CA",
+    "zip": "98493"
+  },
+  "contact": {
+    "phone": "(478) 699-8651",
+    "servicePhone": "800715741"
+  },
+  "birthday": "2002-03-24T05:06:55.605Z",
+  "ip": "87.54.67.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubvif tebi mehneg liewudab foegse ajo bugvaul ko vej goleruk hougpe uzac. Tugvom zeku vazju mi wukgoc teldisi fil zanunij zoc kufitjal zo vuw wojujzeh feomsuv dezima. Widip gemow dar gopec mewpo kew izofakeb kokevofo nemwiko putnipte muvjepul tewgoh apipeg iksiwon pesunez newlacboj anmugeb ohewoci. Ka itlicim ucoja menbe cal pihhuno ohmid cub wasbi tu fori zopob izepu is.",
+    "bio": "Tenkuvu tekhoweg tuk sutwun vucmu muiro opotogdi zepcec hicapsit paswuonu aguhormuh usu. Vohdu jiupila godtimbo isfugju rolpel tef za nuw mob pec awaahso vehfetat. Gassozava timvucik rinelakul ova nof rafpipsa wi iw nabiltad vupogewe eloew sicehzod cuna iji liba ohi newason kojjeldad."
+  },
+  "apiKey": "66d736f7d4bd455b22ce558fb6d6b7e8429c5a2c92fae635b6695e5cc5fa91f8",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
