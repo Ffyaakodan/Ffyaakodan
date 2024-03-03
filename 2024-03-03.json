@@ -1,0 +1,26 @@
+{
+  "name": "Allen McGee",
+  "age": 24,
+  "address": {
+    "street": "Cepkut Way",
+    "city": "Lenbosno",
+    "state": "NM",
+    "zip": "10613"
+  },
+  "contact": {
+    "phone": "(664) 483-1602",
+    "servicePhone": "800592112"
+  },
+  "birthday": "1982-01-03T10:42:39.144Z",
+  "ip": "110.97.163.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Covu wudhofi emoduklof fidrun diftori eg tepojmis kup gaoduhim udbuw sikje bi ubiujtu pitevur rubok deg. Uca jidtimeh mupgi ro itaov zecag urga sibeak pupapfa aruceg tarit azoup bebofrug avrum lewter hudap zivo el. Vob diti cevlof papco simhuado zarvep fikcopah cer jocog kus se zen duk jof. Peze dethenu hesivewif gecfad faefrej wimad gotlig su ustumu rav dicupi mukni noewuupe uf zo hutir konwez ulufa. Lodwuf teiwa afibi lub bija nota porruwbuj risar favek pin godo sama ol rawut hurodi.",
+    "bio": "Nu wobci jofudir ibi gehlezdut naghuhah septaccib giivzi isocarha veg hoofetit bewdeem. Opu tobfonuh wi oh decvihfid uncu rozivako halwuz tu er cahak bu. Maubato wicegga nowe lomfetbit fumuti irfaoc tuzcog pet or bolzene bepe totfap hat ujo ra nate honav codcom."
+  },
+  "apiKey": "7a21092937088692fffbc061677d77d7591b2640c3b4f80ed52ec2b270d26e49",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
