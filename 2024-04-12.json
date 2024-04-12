@@ -1,0 +1,26 @@
+{
+  "name": "Olga Glover",
+  "age": 18,
+  "address": {
+    "street": "Neep Plaza",
+    "city": "Ajihinso",
+    "state": "SD",
+    "zip": "89563"
+  },
+  "contact": {
+    "phone": "(678) 645-2291",
+    "servicePhone": "800994725"
+  },
+  "birthday": "1974-06-28T12:29:45.129Z",
+  "ip": "94.226.29.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Jez eruko ca bi vih ke ejo rab buzmin cad jilog pow go zugen loke lakzesi. Wefjek tivim darla jirude kakaki labawu rut delufva fub fupvef do zo gozmad wujic. Zumvursi mudgawil nup na nurapuzi izonuv wipdarlu ujne wefhav zaiw cupog fow gacet kocak as og un beh.",
+    "bio": "Wagco bilez sa wacluw uhodedra sid locag gonsi reh lu ul kepepub. Gercosita huvjawu akzop kaagusik kupni tut goc cinot lodof momdace ni jiw nimiwna fihbi agovi gewonrow ikcuoj dourte. Sun tatoro boogsek uguipo etnosum haza bi juk es ciha mam gogiri sup naj davtet pafbobrus wira. Rukemro nekseh faf vamomnej mulsoeb ol neru li ge saeke bos woltu fijegri liit okevaw wu."
+  },
+  "apiKey": "8cd2c741edfa33e9877924c6bcfd0d0e094ce86f4fe339d56ee5945db405d873",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
